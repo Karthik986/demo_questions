@@ -28,7 +28,7 @@
                 "SubjectId": 3,
                 "Answer": "",
                 "ReviewAnswerOption": "",
-                "Q_LATEX": "The fraction (\cfrac{1}{2} \) lies between",
+                "Q_LATEX": "The fraction (\\cfrac{1}{2} \\) lies between",
                 "Q_LATEX_VERIFIED": "1",
                 "Q_LATEX_Status": "Y",
                 "AnswerOption_A": "(\\cfrac{3 u^{2}}{g} \\)",
